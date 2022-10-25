@@ -6,7 +6,7 @@ const Home = () => {
       <h1>Fetching Data</h1>
       <ul>
         <li>
-          getStaticProps :<Link href={"/about"}>About Page</Link>
+          getStaticProps :<Link href={"/albums"}>albums Page</Link>
         </li>
         <li>
           getStaticPaths :<Link href={"/users/1"}>User 1</Link>
